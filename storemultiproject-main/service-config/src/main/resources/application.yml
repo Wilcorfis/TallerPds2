@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: service-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:///C:/Users/computador/Desktop/TALLER WILMER 2/Taller2-PDS/config-data
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 9000

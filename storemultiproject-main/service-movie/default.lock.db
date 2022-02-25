@@ -1,0 +1,6 @@
+#FileLock
+#Wed Feb 23 15:18:58 UTC 2022
+server=192.168.56.1\:34404
+hostName=equipo-sala
+method=file
+id=17f2729fe7eb0e2b3e0a79ce05a8c9b85a840179bff
